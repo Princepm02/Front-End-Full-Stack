@@ -1,0 +1,48 @@
+odd or even:
+
+
+<html>
+<head>
+    <title>Odd and Even</title>
+</head>
+<script>
+    const num = parseInt(prompt("Enter a number"));
+    if (!isNaN(num)) {
+        if (num % 2 === 0) {
+            alert("Even");
+        } else {
+            alert("Odd");
+        }
+    } else {
+        alert("Invalid input. Please enter a valid number.");
+    }
+</script>
+</html>
+
+
+
+
+
+largest of 3:
+
+<html>
+    <head>
+        <title>Largest Number</title>
+    </head>
+    <script>
+        const num1 = parseInt(prompt("Enter a number"));
+        const num2 = parseInt(prompt("Enter a number"));
+        const num3 = parseInt(prompt("Enter a number"));
+        let largest;
+
+        if (num1 > num2 && num1 > num3) {
+            largest = num1;
+        } else if (num2 > num1 && num2 > num3) {
+            largest = num2;
+        } else {
+            largest = num3;
+        }
+
+        alert("The largest number is: " + largest);
+    </script>
+</html>
