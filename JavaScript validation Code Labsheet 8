@@ -1,4 +1,6 @@
 Main.html
+
+
 <html>
  <head><title>Registration Form Validation</title></head>
  <body bgcolor="#E4F0F8">
@@ -143,6 +145,8 @@ function lengthRestriction1(elem, min, max)
 
 
 Right.html
+
+
 <html>
 <body style="background-color:green;">
 <h1> Registration done successfully </h1>
