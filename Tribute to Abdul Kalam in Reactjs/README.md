@@ -1,4 +1,4 @@
-# Dr. A. P. J. Abdul Kalam Timeline - React App
+# Dr. A. P. J. Abdul Kalam - React App
 
 This React app showcases a brief timeline of the life and achievements of Dr. A. P. J. Abdul Kalam, the "Missile Man of India" and the "People's President." The app displays his image, a timeline of significant events in his life, and provides a link for further information.
 
