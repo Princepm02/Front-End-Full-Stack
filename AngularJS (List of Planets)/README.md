@@ -1,6 +1,6 @@
 # Planets in the Solar System - AngularJS App
 
-This repository contains a simple AngularJS application that displays information about planets in the solar system. The app allows users to search and sort the planets based on various criteria.
+This folder contains a simple AngularJS application that displays information about planets in the solar system. The app allows users to search and sort the planets based on various criteria.
 
 ## Table of Contents
 - [Introduction](#introduction)
