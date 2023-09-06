@@ -1,6 +1,6 @@
 # jQuery Fade Effects Example
 
-This repository contains a simple HTML file (`fade_jQuery.html`) that demonstrates the use of jQuery's fade effects. The provided code showcases how to create fade-in, fade-out, and fade-toggle animations for different HTML elements.
+This folder contains a simple HTML file (`fade_jQuery.html`) that demonstrates the use of jQuery's fade effects. The provided code showcases how to create fade-in, fade-out, and fade-toggle animations for different HTML elements.
 
 ## Table of Contents
 
@@ -8,7 +8,6 @@ This repository contains a simple HTML file (`fade_jQuery.html`) that demonstrat
 - [Usage](#usage)
 - [Fade Effects](#fade-effects)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
