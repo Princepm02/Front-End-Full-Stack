@@ -1,6 +1,6 @@
 # React Calculator App
 
-This repository contains a simple calculator application built using React. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers. The calculator's UI and functionality are implemented in the `app.js` file.
+This folder contains a simple calculator application built using React. The app allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers. The calculator's UI and functionality are implemented in the `app.js` file.
 
 ## How to Use
 
