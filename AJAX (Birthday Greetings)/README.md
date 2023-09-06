@@ -1,6 +1,6 @@
 # AJAX Birthday Greeting Example
 
-It contains a simple web page that demonstrates the use of AJAX (Asynchronous JavaScript and XML) to display a birthday greeting message. The example consists of two HTML files: `AjaxExample.html` and `surprise.html`.
+This folder contains a simple web page that demonstrates the use of AJAX (Asynchronous JavaScript and XML) to display a birthday greeting message. The example consists of two HTML files: `AjaxExample.html` and `surprise.html`.
 
 ## Usage
 
