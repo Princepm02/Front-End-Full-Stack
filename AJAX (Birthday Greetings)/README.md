@@ -1,6 +1,6 @@
 # AJAX Birthday Greeting Example
 
-This repository contains a simple web page that demonstrates the use of AJAX (Asynchronous JavaScript and XML) to display a birthday greeting message. The example consists of two HTML files: `AjaxExample.html` and `surprise.html`.
+It contains a simple web page that demonstrates the use of AJAX (Asynchronous JavaScript and XML) to display a birthday greeting message. The example consists of two HTML files: `AjaxExample.html` and `surprise.html`.
 
 ## Usage
 
@@ -9,16 +9,17 @@ To see the AJAX birthday greeting in action, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/ajax-birthday-greeting.git
+   git clone https://github.com/Princepm02/Front-End-Full-Stack.git
    ```
+2. Open `AJAX (Birthday Greetings)` folder.
 
-2. Open the `AjaxExample.html` file in a web browser.
+3. Open the `AjaxExample.html` file in a web browser.
 
-3. When you open the web page, you will be greeted with a message: "Today's your special day!" and a button that says "Why's that?"
+4. When you open the web page, you will be greeted with a message: "Today's your special day!" and a button that says "Why's that?"
 
-4. Click the "Why's that?" button to trigger an AJAX request. This request will fetch the content of the `surprise.html` file, which contains the birthday greeting message.
+5. Click the "Why's that?" button to trigger an AJAX request. This request will fetch the content of the `surprise.html` file, which contains the birthday greeting message.
 
-5. After clicking the button, the greeting message "It's your birthday!" will be displayed in a larger font and vibrant red color, creating a visually appealing birthday surprise.
+6. After clicking the button, the greeting message "It's your birthday!" will be displayed in a larger font and vibrant red color, creating a visually appealing birthday surprise.
 
 ## Files
 
