@@ -1,6 +1,6 @@
 # Canvas Drawing Example
 
-This repository contains a simple HTML file demonstrating how to create a canvas element and implement basic drawing functionality using JavaScript. Users can click and drag the mouse on the canvas to draw lines.
+This folder contains a simple HTML file demonstrating how to create a canvas element and implement basic drawing functionality using JavaScript. Users can click and drag the mouse on the canvas to draw lines.
 
 ## Getting Started
 
