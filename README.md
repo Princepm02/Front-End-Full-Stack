@@ -14,9 +14,7 @@ Welcome to the **Front End Full Stack** repository! This collection of projects 
   - [7. JavaScript Validation Code](#7-javascript-validation-code)
   - [8. Tribute to Abdul Kalam in ReactJS](#8-tribute-to-abdul-kalam-in-reactjs)
 - [Getting Started](#getting-started)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
-
+  
 ---
 
 ## About the Projects
